@@ -12,7 +12,7 @@ body {
 }
 #bg-video {
   position: fixed;
-   width: 560;
+   width: 150;
    height: 300;
   margin-left: 20px; 
   float: right;  
@@ -119,3 +119,4 @@ a {
   color: #deb887;
 
 }
+
