@@ -9,6 +9,15 @@ body {
   background-image: url(https://73bd435d33.clvaw-cdnwnd.com/12118d858d7366b5537936fdf4ca9f53/200001737-5816358165/Afrodite%20%28Aesthetic%29.webp?ph=73bd435d33);
 }
 
+}
+#bg-video {
+  position: fixed;
+   width: 560;
+   height: 300;
+  margin-left: 20px; 
+  float: right;  
+}
+
 h1,h2, p {
   margin: 1em auto;
   text-align: center;
@@ -108,4 +117,5 @@ input[type="submit"] {
 
 a {
   color: #deb887;
+
 }
