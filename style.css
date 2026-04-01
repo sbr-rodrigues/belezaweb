@@ -10,12 +10,13 @@ body {
 }
 
 }
-#bg-video {
-  position: fixed;
-   width: 150;
-   height: 300;
-  margin-left: 20px; 
-  float: right;  
+.video-pequeno {
+  width: 240px;       
+  height: auto;      
+  display: block;
+  margin: 20px auto;  
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
 h1,h2, p {
