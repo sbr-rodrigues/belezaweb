@@ -15,7 +15,7 @@ body {
   display: block;
   margin: 20px auto;  
   border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+ border: 1px solid #ccc;
 }
 
 h1,h2, p {
